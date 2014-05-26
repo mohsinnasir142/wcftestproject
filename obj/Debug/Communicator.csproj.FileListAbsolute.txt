@@ -1,0 +1,10 @@
+C:\Users\mohsin\Desktop\Communicator\bin\Communicator.dll
+C:\Users\mohsin\Desktop\Communicator\bin\Communicator.pdb
+C:\Users\mohsin\Desktop\Communicator\obj\Debug\Communicator.dll
+C:\Users\mohsin\Desktop\Communicator\obj\Debug\Communicator.pdb
+C:\Users\mohsin\Desktop\Communicator\obj\Debug\Communicator.csprojResolveAssemblyReference.cache
+D:\Mohsin\My Data\WinRaR\work 27-12-2013\Communicator\bin\Communicator.dll
+D:\Mohsin\My Data\WinRaR\work 27-12-2013\Communicator\bin\Communicator.pdb
+D:\Mohsin\My Data\WinRaR\work 27-12-2013\Communicator\obj\Debug\Communicator.csprojResolveAssemblyReference.cache
+D:\Mohsin\My Data\WinRaR\work 27-12-2013\Communicator\obj\Debug\Communicator.dll
+D:\Mohsin\My Data\WinRaR\work 27-12-2013\Communicator\obj\Debug\Communicator.pdb
